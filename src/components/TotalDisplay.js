@@ -3,7 +3,7 @@ import React from 'react';
 
 const TotalDisplay = (props) => {
   const { value } = props;
-
+  
   return (
     <div className="row">
       <div className="col-md-12 p-0">
